@@ -1,0 +1,16 @@
+.dropdown-menu > li:first-child > a{
+    border-radius: 10px 10px 0 0;
+    padding-top: 12px;
+}
+.dropdown-menu > li:last-child > a{
+    border-bottom: 0 none;
+    border-radius: 10px 10px 10px 10px;
+    padding-bottom: 12px;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background-color: #FFFFFF;
+    color: #333333;
+    opacity: 1;
+    text-decoration: none;
+}
