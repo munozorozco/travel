@@ -746,7 +746,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 .main .motto{
     min-height: 140px;
-    font-weight: 300;
+    font-weight: 400;
 }
 .main .motto, .main .subscribe .info-text{
     font-size: 28px;
