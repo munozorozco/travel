@@ -14,14 +14,3 @@
     opacity: 1;
     text-decoration: none;
 }
-.main .motto{
-    min-height: 140px;
-    font-weight: 300;
-}
-.main .motto, .main .subscribe .info-text{
-    font-size: 28px;
-    color: #FFFFFF;
-    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
-    text-align: center;
-    margin-top: 50px;  
-}
